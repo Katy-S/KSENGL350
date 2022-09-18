@@ -5,7 +5,7 @@
 ## **Preject URL:** [http://bloodaxe.ncl.ac.uk/explore/index.html#/splash](http://www.bloodaxe.ncl.ac.uk/explore/index.html#/splash)
 ![Front page of The Blood Axe digital humanities project. The visual consists of a large center cirle with a book icon. 5 smaller circles surround this, each with a different icon: brackets, a tringle, the letter "W," a table, and a light bulb. Below this design reads the title "The Bloodaxe Archive."](https://katy-s.github.io/KSENGL350/images/front-page.png)
 ## **Summary**
-This project is an archive of poems published by Bloodaxe Books with six unique ways to search through the different works. First, users may simply browse through titles 
+This project is an archive of poems published by Bloodaxe Books with six unique ways to search through the different works. First, users may simply browse through titles of works. Another search option is by the shape of the work, and the data section links out to other works by authors Bloodaxe Books has published. Lastly, 
 
 ## **Humanities Relations**
 
