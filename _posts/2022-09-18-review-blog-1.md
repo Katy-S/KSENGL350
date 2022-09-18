@@ -17,4 +17,3 @@ The Bloodaxe Archive highlights literature and history as it documents new and o
 
 
 ## **Areas of Concern**
-![image](https://user-images.githubusercontent.com/111993515/190928692-2a992321-375c-42a2-94d5-4b356e7f7187.png)
