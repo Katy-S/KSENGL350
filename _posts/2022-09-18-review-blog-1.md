@@ -11,7 +11,7 @@ This project is an archive of poems published by Bloodaxe Books with six unique 
 The Bloodaxe Archive highlights literature and history as it documents new and old publications of written art. In these areas, the project also promotes education through linking to additional information and the format by which visitors can look through publications. Providing different ways to search for works highlights a new perspective of them, and users can easily find correlations between different pieces based upon which ones are found from a specific search.
 
 ## **Use of Technology**
-For this particular project, technology is used to narrow searches and categorize publications. 
+For this particular project, technology is used to narrow searches and categorize publications. Specifically, there are links and navigation elements throughout the project to dive deeper into works, sort them, and find ones which are relevant to a visitor seeking something specific. Search options which are predetermine or open-ended allow for either preset learning paths or self-guided discovery.
 
 ## **Areas of Excellence**
 The creators of this archive link to an education site specifically designed to help visitors navigate through publications and interact with them intuitively. This is an excellent method to provide more detailed guidelines and ideas to explore the site, and this is a way for visitors to gain the most possible knowledge from the project.
@@ -34,3 +34,6 @@ As previously mentioned, there is a separate website which serves the specific p
 
 
 ## **Final Notes**
+Overall, this project incorporates modern technology and the humanities in such a way that allows for further knowledge about literature, past and present, published by Bloodaxe Books. The use of navigation elements in this project makes all the difference, and they provide a way for meaningful interactions for both beginners and researchers in the digital humanities.
+
+There are some improvements which can be made to enhance users’ experiences, especially for those who are unfamiliar with the digital humanities. Such adjustments will vastly improve usability and understanding of the project.
