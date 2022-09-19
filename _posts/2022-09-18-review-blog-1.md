@@ -14,8 +14,10 @@ The Bloodaxe Archive highlights literature and history as it documents new and o
 For this particular project, technology is particularly used to narrow searches and categorize publications. 
 
 ## **Areas of Excellence**
-The creators of this archive link to an education site specifically designed to help visitors navigate through publications and interact with them intuitively. This is an excellent method to provide more detailed guidelines and ideas to explore the site, and this is a way for visitors to gain the most possible knowledge from the project.  
-Additionally, the greatest and most important strength of this project is the ability to sift through works by unique means. The six avenues visitors can take are rather specific and categorical, implying new ways of looking at publications before they delve any further into the information.  
+The creators of this archive link to an education site specifically designed to help visitors navigate through publications and interact with them intuitively. This is an excellent method to provide more detailed guidelines and ideas to explore the site, and this is a way for visitors to gain the most possible knowledge from the project.
+
+Additionally, the greatest and most important strength of this project is the ability to sift through works by unique means. The six avenues visitors can take are rather specific and categorical, implying new ways of looking at publications before they delve any further into the information.
+
 Once an overarching method of searching is selected, users can narrow parameters further with predetermined options, a drawing board, or an open text box. These choices are varied, but they are not overwhelming. This is especially important for people who are not familiar with digital humanities projects. However, the specificity of the options still makes information 
 
 ## **Areas of Concern**
