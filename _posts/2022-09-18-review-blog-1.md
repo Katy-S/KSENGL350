@@ -28,5 +28,9 @@ This project is very well executed, and there is always opportunity and space to
 ![Display of homepage buttons arranged in circles with icons depicting their respective categories. The computer mouse hovers over one of the icons, and the title displays.](https://katy-s.github.io/KSENGL350/images/buttons.png)
 
 As previously mentioned, there is a separate website which serves the specific purpose of helping users navigate the project. Despite its reference, this site is not yet fully functional, and all of the links included lead to an error page. 
+![Description of education website as guiding tool for this digital humanities project.](https://katy-s.github.io/KSENGL350/images/education.png)
+
+![Display of error message after attempt to access page in education site connected to this project.](https://katy-s.github.io/KSENGL350/images/error.png)
+
 
 ## **Final Notes**
