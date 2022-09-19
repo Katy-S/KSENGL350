@@ -23,7 +23,8 @@ Once an overarching method of searching is selected, users can narrow parameters
 
 ![Search box where user can type the title of a book followed by a drop down menu of options to narrow search.](https://katy-s.github.io/KSENGL350/images/books.png)
 
-
-
 ## **Areas of Concern**
+This project is very well executed, and there is always opportunity and space to improve functionality and usability of digital humanities projects. Most importantly for this project, the buttons on the main page do not work. Each displays the title of the corresponding page (Books, Shapes, Research, Words, Gallery, and Data) upon hovering the computer mouse above the buttons, but clicking on these figures yields no result. It is imperative that these icons are clickable to avoid confusion and streamline usage of this project.
+![Display of homepage buttons arranged in circles with icons depicting their respective categories. The computer mouse hovers over one of the icons, and the title displays.](https://katy-s.github.io/KSENGL350/images/buttons.png)
+
 As previously mentioned, there is a separate website which serves the specific purpose of helping users navigate the project. Despite its reference, this site is not yet fully functional, and all of the links included lead to an error page. 
